@@ -12,7 +12,7 @@ Science building to every other building?", with two algorithms:
 | Bellman-Ford | Dynamic programming | Allowed; negative cycles are detected and reported | O(VE) |
 
 Both are run on the same graph and their answers are compared. The assignment is in
-[Project3.pdf](Project3.pdf) (the map is on page 3) and the full write-up is in
+[docs/Project3.pdf](docs/Project3.pdf) (the map is on page 3) and the full write-up is in
 [docs/REPORT.md](docs/REPORT.md).
 
 ## Requirements
@@ -125,6 +125,7 @@ graphs, on street grids and on a worst case for Bellman-Ford.
 
 ```
 data/                    graph files
+docs/Project3.pdf        the assignment (Project3.doc is the same in Word format)
 docs/REPORT.md           project report
 src/graph/               the graph abstract data type
     Graph.java               weighted directed or undirected graph, adjacency lists
