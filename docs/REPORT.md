@@ -519,16 +519,15 @@ written independently of it.
 branches and merged into `dev` through pull requests, which gives another team member the chance to
 read a change before it becomes part of the project.
 
-**Contributions of each team member.** The assignment requires this table. *It must be completed
-by the team before the report is submitted.*
+**Contributions of each team member:**
 
-| Team member | Contributions |
-| --- | --- |
-| _(name)_ | _(to be completed)_ |
-| _(name)_ | _(to be completed)_ |
-| _(name)_ | _(to be completed)_ |
-| _(name)_ | _(to be completed)_ |
-| _(name)_ | _(to be completed)_ |
+| Team member        | Contributions                                            |
+| ------------------ | -------------------------------------------------------- |
+| Daniel Vargas      | Repo owner, base code architecture, report final touches |
+| Abdullah Al Mahmud | Coding (Dijkstra) + Report                               |
+| Laksh Kumar        | Coding (Bellman-Ford) + Report                           |
+| Ayan Kabir         | Main code functionality + algorithm merging              |
+
 
 ## 7. Appendix
 
